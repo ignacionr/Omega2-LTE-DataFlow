@@ -1,0 +1,17 @@
+{
+    "name": "Omega2 LTE Dev Container",
+    "build": {
+      "dockerfile": "Dockerfile"
+    },
+    "customizations": {
+        "vscode": {
+            "settings": {
+                "terminal.integrated.shell.linux": "/bin/bash"
+            },
+            "extensions": [
+                "ms-vscode.cpptools"
+            ]
+        }
+    }
+  }
+  
