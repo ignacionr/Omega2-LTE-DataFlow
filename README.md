@@ -78,3 +78,9 @@ Contributions are welcome! Please open an issue or submit a pull request.
 ## Contact
 
 For any inquiries, please contact [ignacionr@gmail.com](mailto:ignacionr@gmail.com).
+
+## Further Reading
+- [Omega2 LTE Product Page](https://onion.io/store/omega2-lte-na/)
+- [Video Tutorial: Introduction to Omega2 LTE](https://www.youtube.com/watch?v=6-ZrdRjqdTk)
+- [OpenWRT SDK Download](https://downloads.openwrt.org/releases/23.05.2/targets/ramips/mt76x8/)
+- [OpenWRT Documentation](https://openwrt.org/docs/start)
